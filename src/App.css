@@ -29,14 +29,5 @@ main {
 }
 
 .redes {
-  display: flex;
   padding: 2rem;
-  align-items: center;
-  justify-content: center;
-}
-
-.redes ul li {
-  display: inline-block;
-  margin: 0 5px;
-  text-align: center;
 }
